@@ -1,0 +1,21 @@
+# CMake generation dependency list for this directory.
+C:/Users/Kevin/Desktop/Lab6/dependencies/glfw/CMakeLists.txt
+C:/Program Files (x86)/CMake/share/cmake-3.1/Modules/FindOpenGL.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.1/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.1/Modules/FindPackageMessage.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.1/Modules/CMakeParseArguments.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.1/Modules/FindThreads.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.1/Modules/CheckIncludeFiles.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.1/Modules/CheckLibraryExists.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.1/Modules/CheckSymbolExists.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.1/Modules/FindPackageHandleStandardArgs.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.1/Modules/FindPackageMessage.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.1/Modules/CMakeParseArguments.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.1/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.1/Modules/CMakeParseArguments.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.1/Modules/WriteBasicConfigVersionFile.cmake
+C:/Program Files (x86)/CMake/share/cmake-3.1/Modules/CMakeParseArguments.cmake
+C:/Users/Kevin/Desktop/Lab6/dependencies/glfw/src/glfw3Config.cmake.in
+C:/Program Files (x86)/CMake/share/cmake-3.1/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+C:/Users/Kevin/Desktop/Lab6/dependencies/glfw/src/glfw_config.h.in
+C:/Users/Kevin/Desktop/Lab6/dependencies/glfw/src/glfw3.pc.in

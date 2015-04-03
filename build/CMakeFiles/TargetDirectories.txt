@@ -1,0 +1,4 @@
+C:/Users/Kevin/Desktop/Lab6/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Kevin/Desktop/Lab6/build/CMakeFiles/Lab6.dir
+C:/Users/Kevin/Desktop/Lab6/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Kevin/Desktop/Lab6/build/dependencies/glfw/src/CMakeFiles/glfw.dir

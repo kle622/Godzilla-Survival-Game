@@ -1,0 +1,15 @@
+# List all .h files here
+set(HEADERS
+   GLIncludes.h
+   GLSL.h
+   tiny_obj_loader.h
+   RenderingHelper.h
+)
+
+# List all .c / .cpp files here
+set(SOURCES
+   main.cpp
+   GLSL.cpp
+   tiny_obj_loader.cc
+   RenderingHelper.cpp
+)
